@@ -1,0 +1,42 @@
+..\obj\calendar.o: ..\HARDWARE\CALENDAR\calendar.c
+..\obj\calendar.o: ..\HARDWARE\CALENDAR\calendar.h
+..\obj\calendar.o: ..\SYSTEM\sys\sys.h
+..\obj\calendar.o: ..\USER\stm32f4xx.h
+..\obj\calendar.o: ..\CORE\core_cm4.h
+..\obj\calendar.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\calendar.o: ..\CORE\core_cmInstr.h
+..\obj\calendar.o: ..\CORE\core_cmFunc.h
+..\obj\calendar.o: ..\CORE\core_cm4_simd.h
+..\obj\calendar.o: ..\USER\system_stm32f4xx.h
+..\obj\calendar.o: ..\USER\stm32f4xx_conf.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_adc.h
+..\obj\calendar.o: ..\USER\stm32f4xx.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_crc.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_dma.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_exti.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_flash.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_spi.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_tim.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_usart.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+..\obj\calendar.o: ..\FWLIB\inc\misc.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_cryp.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_hash.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_rng.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_can.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_dac.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
+..\obj\calendar.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
+..\obj\calendar.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\calendar.o: ..\HARDWARE\RTC\rtc.h
+..\obj\calendar.o: ..\HARDWARE\LCD\lcd.h
+..\obj\calendar.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
